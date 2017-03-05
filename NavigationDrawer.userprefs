@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{DEDAE7A9-0ADF-4791-A9E7-703D533F7330}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationDrawer/MainPage.xaml.cs">
+    <Files>
+      <File FileName="NavigationDrawer/MainPage.xaml.cs" Line="62" Column="5" />
+      <File FileName="NavigationDrawer/MasterPageItem.cs" Line="10" Column="3" />
+      <File FileName="NavigationDrawer/MasterPage.xaml.cs" Line="37" Column="9" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="NavigationDrawer/DetailViews/DetailView1.xaml.cs" Line="20" Column="4" />
+      <File FileName="NavigationDrawer/DetailViews/DetailView2.xaml.cs" Line="19" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NavigationDrawer.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavigationDrawer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3D12854A-7092-4BCD-8D7B-3CCBE42EAC2E" />
+  <MultiItemStartupConfigurations />
+</Properties>
